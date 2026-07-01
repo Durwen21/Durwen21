@@ -57,8 +57,6 @@ I build **offline-first web applications** that keep working when the network dr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Durwen21&theme=gruvbox&border_radius=6&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Durwen21&theme=gruvbox&no-frame=true&column=7&margin-w=8)
-
 </div>
 
 ---
